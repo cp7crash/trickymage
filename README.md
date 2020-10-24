@@ -1,6 +1,10 @@
-# Tricky Mage WeakAuras
-A collection of WA to get the most out of your mage
+# Tricky Mage UI Stuff
+Now a whole UI, but a a collection of stuff to get the most out of the best class in wow.
+
+## Macros
+
+## WeakAuras
 
 ## with thanks
-Based upon the fine work by Luxthos
+WeakAuras Based upon the fine work by Luxthos
 https://www.twitch.tv/luxthos
