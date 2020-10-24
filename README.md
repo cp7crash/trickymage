@@ -1,0 +1,2 @@
+# trickymage
+Tricky Mage WeakAuras
